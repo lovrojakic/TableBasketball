@@ -1,0 +1,3 @@
+[submodule "adafruit-keyboard"]
+	path = adafruit-keyboard
+	url = git@github.com:lovrojakic/adafruit-keyboard.git
