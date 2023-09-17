@@ -1,15 +1,15 @@
 [submodule "libraries/adafruit-keyboard"]
 	path = libraries/adafruit-keyboard
-	url = git@github.com:lovrojakic/adafruit-keyboard.git
+	url = https://github.com/lovrojakic/adafruit-keyboard
 [submodule "libraries/Adafruit_BusIO"]
 	path = libraries/Adafruit_BusIO
-	url = git@github.com:adafruit/Adafruit_BusIO.git
+	url = https://github.com/adafruit/Adafruit_BusIO
 [submodule "libraries/Adafruit-GFX-Library"]
 	path = libraries/Adafruit-GFX-Library
-	url = git@github.com:adafruit/Adafruit-GFX-Library.git
+	url = https://github.com/adafruit/Adafruit-GFX-Library
 [submodule "libraries/Adafruit_ILI9341"]
 	path = libraries/Adafruit_ILI9341
-	url = git@github.com:adafruit/Adafruit_ILI9341.git
+	url = https://github.com/adafruit/Adafruit_ILI9341
 [submodule "libraries/XPT2046_Touchscreen"]
 	path = libraries/XPT2046_Touchscreen
-	url = git@github.com:PaulStoffregen/XPT2046_Touchscreen.git
+	url = https://github.com/PaulStoffregen/XPT2046_Touchscreen
