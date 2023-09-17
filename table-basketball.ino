@@ -1,8 +1,8 @@
 #include "Renderer.hpp"
 #include "MatchLogger.hpp"
 #include "Match.hpp"
-#include "adafruit-keyboard/Keyboard.hpp"
 
+#include <Keyboard.hpp>
 #include <Adafruit_ILI9341.h>
 #include <XPT2046_Touchscreen.h>
 
